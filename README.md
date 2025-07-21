@@ -6,6 +6,8 @@ A beautiful and fully functional chatbot application built with Flutter and powe
 The app provides a real-time, user-friendly chat interface that allows users to interact with an AI in an intuitive and engaging way.
 
 ---
+## ✨ App Screenshots
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/1.png" alt="Screenshot 1" width="30%" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/2.png" alt="Screenshot 2" width="30%" style="margin: 10px;" />
