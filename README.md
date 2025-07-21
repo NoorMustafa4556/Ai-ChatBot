@@ -1,12 +1,17 @@
 # Flutter Gemini AI ChatBot 🤖
 
-![Flutter Gemini ChatBot Banner](https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/chatbot.png) <!-- Replace with your own banner or a high-quality screenshot -->
 
 A beautiful and fully functional chatbot application built with Flutter and powered by Google's advanced **Gemini AI** model. This project serves as an excellent example of integrating a state-of-the-art AI into a modern, cross-platform mobile application.
 
 The app provides a real-time, user-friendly chat interface that allows users to interact with an AI in an intuitive and engaging way.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/1.png" alt="Screenshot 1" width="30%" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/2.png" alt="Screenshot 2" width="30%" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/3.png" alt="Screenshot 3" width="30%" style="margin: 10px;" />
+</p>
+
 
 ## ✨ Key Features
 
@@ -19,11 +24,7 @@ The app provides a real-time, user-friendly chat interface that allows users to 
 -   **📜 Auto-Scrolling Chat:** The chat view automatically scrolls to the latest message, ensuring a smooth user experience.
 
 ---
-
-
-| ![Splash Screen](https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/chatbot.png) 
-
-| ![Chat Screen](https://raw.githubusercontent.com/NoorMustafa4556/Ai-ChatBot/main/assets/images/Haadi.jpg)      |
+|
 
 
 
