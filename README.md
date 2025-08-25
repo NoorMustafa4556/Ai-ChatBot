@@ -27,8 +27,6 @@ The app provides a real-time, user-friendly chat interface that allows users to 
 -   **📜 Auto-Scrolling Chat:** The chat view automatically scrolls to the latest message, ensuring a smooth user experience.
 
 ---
-|
-
 
 
 ---
