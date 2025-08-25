@@ -15,6 +15,7 @@ The app provides a real-time, user-friendly chat interface that allows users to 
 </p>
 
 
+
 ## ✨ Key Features
 
 -   **🤖 Intelligent Conversations:** Live, intelligent responses powered by Google's **Gemini 1.5 Flash** model.
