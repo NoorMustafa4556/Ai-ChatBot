@@ -88,7 +88,7 @@ Follow these instructions to set up and run the project on your local machine.
 ---
 
 ## 📂 Project Structure
-
+```bash
 lib/
 ├── A-I Project/
 │ ├── ChatBotSplash.dart # Application's entry splash screen
@@ -100,7 +100,7 @@ lib/
 │
 └── assets/
 └── images/ # Contains app assets like background and splash images
-
+ ```
 
 
 ---
